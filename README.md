@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?&&type=waving&&color=82A284&&height=250&section=header&text=HI!%20I'm%20Seung-yeon&fontSize=60&animation=fadeIn&fontColor=F7F5F2&fontAlignY=40)
-
 <div align="center">
   <div>
     <h4>💚 About Me 💚</h4>
