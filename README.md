@@ -13,10 +13,3 @@
     <img src="https://img.shields.io/badge/React-17b6e7?style=flat-square&logo=React&logoColor=white"/>
   </div>
 </div>
-
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sypear&layout=compact&theme=swift" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=sypear&show_icons=true&theme=swift" height="150"/>
-</div>
